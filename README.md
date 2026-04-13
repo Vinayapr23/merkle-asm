@@ -35,6 +35,8 @@ cargo install --git https://github.com/blueshift-gg/sbpf.git
 ## Usage
 
 ```bash
+clone this repo
+
 make build   # compile assembly to .so
 make test    # run Mollusk tests
 make cu      # print CU usage per instruction

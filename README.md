@@ -1,6 +1,6 @@
 # merkle-asm
 
-A depth-20 SHA256 Merkle tree for the Solana Virtual Machine, written entirely in raw sBPF assembly using the [blueshift sbpf toolkit](https://github.com/blueshift-gg/sbpf).
+A depth-20 SHA256 Merkle tree written entirely in raw sBPF assembly using the [blueshift sbpf toolkit](https://github.com/blueshift-gg/sbpf).
 
 ---
 
